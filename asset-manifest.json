@@ -1,13 +1,13 @@
 {
-  "main.css": "/smartweb/static/css/main.c340afe7.chunk.css",
-  "main.js": "/smartweb/static/js/main.9ad5a9b1.chunk.js",
-  "main.js.map": "/smartweb/static/js/main.9ad5a9b1.chunk.js.map",
-  "static/js/1.b0a0cfda.chunk.js": "/smartweb/static/js/1.b0a0cfda.chunk.js",
-  "static/js/1.b0a0cfda.chunk.js.map": "/smartweb/static/js/1.b0a0cfda.chunk.js.map",
-  "runtime~main.js": "/smartweb/static/js/runtime~main.cd2b8813.js",
-  "runtime~main.js.map": "/smartweb/static/js/runtime~main.cd2b8813.js.map",
-  "static/css/main.c340afe7.chunk.css.map": "/smartweb/static/css/main.c340afe7.chunk.css.map",
-  "index.html": "/smartweb/index.html",
-  "precache-manifest.00f729320f4e957725c1e7a58742f539.js": "/smartweb/precache-manifest.00f729320f4e957725c1e7a58742f539.js",
-  "service-worker.js": "/smartweb/service-worker.js"
+  "main.css": "/movie-app-repository/static/css/main.c340afe7.chunk.css",
+  "main.js": "/movie-app-repository/static/js/main.1fef4c6c.chunk.js",
+  "main.js.map": "/movie-app-repository/static/js/main.1fef4c6c.chunk.js.map",
+  "static/js/1.b0a0cfda.chunk.js": "/movie-app-repository/static/js/1.b0a0cfda.chunk.js",
+  "static/js/1.b0a0cfda.chunk.js.map": "/movie-app-repository/static/js/1.b0a0cfda.chunk.js.map",
+  "runtime~main.js": "/movie-app-repository/static/js/runtime~main.d2c8bd37.js",
+  "runtime~main.js.map": "/movie-app-repository/static/js/runtime~main.d2c8bd37.js.map",
+  "static/css/main.c340afe7.chunk.css.map": "/movie-app-repository/static/css/main.c340afe7.chunk.css.map",
+  "index.html": "/movie-app-repository/index.html",
+  "precache-manifest.3813c6ab2dc2a70e73f97f23ca834386.js": "/movie-app-repository/precache-manifest.3813c6ab2dc2a70e73f97f23ca834386.js",
+  "service-worker.js": "/movie-app-repository/service-worker.js"
 }
